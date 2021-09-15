@@ -33,8 +33,8 @@ The Outlook Extension requires to be configured both in Odoo and in Outlook.
 Enable the feature on your database
 -----------------------------------
 
-To enable this feature on your Odoo database, go to :menuselection:`CRM --> Configuration --> Lead
-Generation`, enable **Outlook CRM Extension**, and click on *Save*.
+To enable this feature on your Odoo database, go to :menuselection:`Settings --> General Settings -->
+Integrations`, enable **Mail Plugin**, and click on *Save*.
 
 .. _outlook_extension/add-in-installation:
 
