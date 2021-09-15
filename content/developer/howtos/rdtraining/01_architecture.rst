@@ -29,6 +29,11 @@ on your background.
 
 For reference this is the official `Python tutorial`_.
 
+.. note:: Since version 15.0, Odoo is actively transitioning to using its own in-house
+  developed `OWL framework`_ as part of its presentation tier. The legacy JavaScript framework
+  is still supported but will be depreciated over time. This will be discussed further in advanced
+  topics.
+
 Odoo modules
 ============
 
@@ -123,6 +128,9 @@ to make sure we start on the same page during the development of our new applica
 
 .. _multitier architecture:
     https://en.wikipedia.org/wiki/Multitier_architecture
+
+.. _OWL framework:
+    https://odoo.github.io/owl/
 
 .. _Python tutorial:
     https://docs.python.org/3.6/tutorial/
