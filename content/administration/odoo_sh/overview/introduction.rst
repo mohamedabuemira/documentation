@@ -1,5 +1,5 @@
 =======================
-Introduction to Odoo.sh
+Introduction to Odoo. sh
 =======================
 
 .. youtube:: QuNsa9n9PMg
@@ -7,4 +7,4 @@ Introduction to Odoo.sh
     :width: 700
     :height: 394
 
-The documentation will help you go live with your Odoo.sh project in no time.
+The documentation will help you go live with your Odoo. sh project in no time.
